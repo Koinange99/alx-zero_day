@@ -1,15 +1,2 @@
-
-
-
-
-
-
-
-
-B
-Ai
-A
-B
-B
-Ci
-#!/bin/bashecho "ALX"
+#!/bin/bash
+echo "ALX"
